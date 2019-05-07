@@ -1,12 +1,10 @@
-## Shade Gifs 
+## Shade Gifs - Frontend Repository
 
 ### Application Description
 
 Reaction Gif Search Engine where you can search for Gifs by reaction, pop culture references and of course shade! 
 
-Shade Gif's API is hosted on [Heroku](https://lit-dusk-44111.herokuapp.com/api/v1/gifs)
-
-API that allows you to 
+Shade Gif's API is hosted on [Heroku](https://lit-dusk-44111.herokuapp.com/api/v1/gifs), and allows you to 
 
 - get all gifs 
 - get all gif reaction tags
@@ -26,5 +24,5 @@ API that allows you to
 
 ### Technologies Used
 
-- Frontend: React
+- Frontend: React, HTML, CSS
 - Backend:  Node, Express, JWT authentication, Postgresql
