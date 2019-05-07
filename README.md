@@ -1,4 +1,4 @@
-## Shade Gifs - Frontend Repository
+## Shade Gifs - Frontend 
 
 ### Application Description
 
