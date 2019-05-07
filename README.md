@@ -1,6 +1,6 @@
 ## Shade Gifs - Frontend 
 
-### Application Description
+### Description
 
 Reaction Gif Search Engine where you can search for Gifs by reaction, pop culture references and of course shade! 
 
